@@ -59,10 +59,22 @@
 
 ---
 
-<!-- GitHub Trophes -->
-<h2>🏆 GitHub Trophies</h2>
+<!-- Stats セクション -->
+<h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=TakumiOkayasu&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakumiOkayasu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakumiOkayasu&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakumiOkayasu&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakumiOkayasu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakumiOkayasu&theme=tokyonight&utcOffset=9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TakumiOkayasu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
