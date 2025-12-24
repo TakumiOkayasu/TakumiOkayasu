@@ -59,10 +59,10 @@
 
 ---
 
-<!-- Highlights -->
-<h2>✨ Highlights</h2>
+<!-- GitHub Trophes -->
+<h2>🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakumiOkayasu&layout=donut-vertical&theme=tokyonight&hide_border=true" />
+  <img src="https://github-trophies.vercel.app/?username=TakumiOkayasu&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ---
