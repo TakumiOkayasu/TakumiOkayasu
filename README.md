@@ -1,5 +1,6 @@
+<!-- markdownlint-disable MD033 MD041 -->
 <!-- ヘッダー画像/ウェーブ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20👋%20I'm%20Takumi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20👋%20I'm%20Takumi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Wave"/>
 
 <!-- タイピングアニメーション -->
 <p align="center">
@@ -22,7 +23,7 @@
 <h2>🛠️ Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,vue,nodejs,docker,kubernetes,aws,linux,vim,git,github&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,vue,nodejs,docker,kubernetes,aws,linux,vim,git,github&perline=7" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -33,20 +34,20 @@
 
 <!-- Profile Details Card -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakumiOkayasu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakumiOkayasu&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <!-- Stats Cards Row -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TakumiOkayasu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TakumiOkayasu&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TakumiOkayasu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TakumiOkayasu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <!-- Language Cards Row -->
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakumiOkayasu&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakumiOkayasu&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakumiOkayasu&theme=tokyonight&utcOffset=9" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakumiOkayasu&theme=tokyonight" alt="Repos Per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakumiOkayasu&theme=tokyonight" alt="Most Commit Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakumiOkayasu&theme=tokyonight&utcOffset=9" alt="Productive Time" />
 </p>
 
 ---
@@ -54,7 +55,7 @@
 <!-- Activity Graph -->
 <h2>📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakumiOkayasu&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakumiOkayasu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -63,18 +64,18 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakumiOkayasu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakumiOkayasu&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakumiOkayasu&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakumiOkayasu&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakumiOkayasu&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakumiOkayasu&theme=tokyonight" alt="Stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakumiOkayasu&theme=tokyonight" alt="Repos Per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakumiOkayasu&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakumiOkayasu&theme=tokyonight&utcOffset=9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TakumiOkayasu&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakumiOkayasu&theme=tokyonight&utcOffset=9" alt="Productive Time" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TakumiOkayasu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -95,10 +96,9 @@
 <h2>📫 Connect with Me</h2>
 <p align="center">
   <a href="mailto:mail@murata-lab.net">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <!-- フッター画像/ウェーブ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer Wave"/>
