@@ -1,5 +1,5 @@
-# .github/workflows/snake.yml
-name: Generate Snake
+# .github/workflows/generate.yml
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -13,9 +13,12 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,6 +28,26 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        working-directory: stats-generator
+        run: bun install
+
+      - name: Generate Stats
+        working-directory: stats-generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: TakumiOkayasu
+        run: bun run generate
+
+      - name: Merge outputs
+        run: |
+          cp stats-generator/dist/*.svg dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
