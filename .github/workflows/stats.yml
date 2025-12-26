@@ -1,0 +1,46 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # 毎週日曜 UTC 0時
+  workflow_dispatch: # 手動実行
+  push:
+    branches:
+      - main
+    paths:
+      - "stats-generator/**"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        working-directory: stats-generator
+        run: bun install
+
+      - name: Generate stats
+        working-directory: stats-generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: TakumiOkayasu
+        run: bun run generate
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: stats-generator/dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
