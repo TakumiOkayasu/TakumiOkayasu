@@ -60,26 +60,6 @@
 
 ---
 
-<!-- Stats セクション -->
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakumiOkayasu&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakumiOkayasu&theme=tokyonight" alt="Stats" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakumiOkayasu&theme=tokyonight" alt="Repos Per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakumiOkayasu&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakumiOkayasu&theme=tokyonight&utcOffset=9" alt="Productive Time" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TakumiOkayasu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
----
-
 <!-- Snake Animation (GitHub Actions必要) -->
 <h2>🐍 Contribution Snake</h2>
 <p align="center">
