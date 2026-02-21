@@ -4,7 +4,21 @@
       "Bash(git checkout:*)",
       "Bash(bun init:*)",
       "Bash(bun build:*)",
-      "Bash(bun run:*)"
+      "Bash(bun run:*)",
+      "Bash(gh issue list:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:capsule-render.vercel.app)",
+      "WebFetch(domain:readme-typing-svg.demolab.com)",
+      "WebFetch(domain:komarev.com)",
+      "WebFetch(domain:skillicons.dev)",
+      "WebFetch(domain:github-profile-summary-cards.vercel.app)",
+      "WebFetch(domain:github-readme-stats.vercel.app)",
+      "WebFetch(domain:github-readme-streak-stats.herokuapp.com)",
+      "WebFetch(domain:github-readme-activity-graph.vercel.app)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(gh run:*)",
+      "WebSearch",
+      "Bash(git ls-tree:*)"
     ]
   }
 }

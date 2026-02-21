@@ -19,13 +19,43 @@
 
 ---
 
-<!-- スキルアイコン -->
+<!-- Tech Stack (2x2 カテゴリテーブル) -->
 <h2>🛠️ Tech Stack</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,vue,nodejs,docker,kubernetes,aws,linux,vim,git,github&perline=7" alt="Tech Stack Icons" />
-  </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>💬 Languages</strong>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,java,ts,js&theme=dark" alt="Languages" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <strong>🎨 Frontend</strong>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,vue,html,css&theme=dark" alt="Frontend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>⚙️ Backend & Infra</strong>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,aws&theme=dark" alt="Backend & Infra" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <strong>🔧 Tools</strong>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,vim,git,github&theme=dark" alt="Tools" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,8 +69,8 @@
 
 <!-- Stats Cards Row -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TakumiOkayasu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TakumiOkayasu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=TakumiOkayasu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <!-- Language Cards Row -->
@@ -48,6 +78,14 @@
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakumiOkayasu&theme=tokyonight" alt="Repos Per Language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakumiOkayasu&theme=tokyonight" alt="Most Commit Language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakumiOkayasu&theme=tokyonight&utcOffset=9" alt="Productive Time" />
+</p>
+
+---
+
+<!-- Trophies セクション -->
+<h2>🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-trophies.svg" alt="GitHub Trophies" />
 </p>
 
 ---
