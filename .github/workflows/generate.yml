@@ -50,7 +50,7 @@ jobs:
           cp stats-generator/dist/*.svg dist/
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
