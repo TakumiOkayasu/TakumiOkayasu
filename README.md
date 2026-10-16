@@ -6,14 +6,12 @@
   alt="Hi there, I'm Takumi"
 />
 
-開発者向けツールやWindowsアプリを作っています。
+趣味やちょっとしたツールを作っています。自分で使うものが中心です。
 
 ## Projects
 
 - **[Velocity-DB](https://github.com/TakumiOkayasu/Velocity-DB)** -
   SQL Server / PostgreSQL / MySQLにODBC経由で接続するWindows向けRDBMS管理ツール。
-- **[git-insights](https://github.com/TakumiOkayasu/git-insights)** -
-  Gitの履歴やブランチグラフを表示するVS Code拡張。
 - **[OpenDeck](https://github.com/TakumiOkayasu/OpenDeck)** -
   Mirabox N4 Proのボタン入力をアプリの起動に割り当てるソフトウェア (開発中)。
 
