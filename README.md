@@ -1,122 +1,79 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <!-- ヘッダー画像/ウェーブ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20👋%20I'm%20Takumi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Wave"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Takumi&fontSize=42&fontColor=fff&fontAlignY=32"
+  alt="Hi there, I'm Takumi"
+/>
 
-<!-- タイピングアニメーション -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
+趣味やちょっとしたツールを作っています。自分で使うものが中心です。
 
-<!-- プロフィールビュー & フォロワーバッジ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TakumiOkayasu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/TakumiOkayasu?tab=followers">
-    <img src="https://img.shields.io/github/followers/TakumiOkayasu?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
-  </a>
-</p>
+## Projects
 
----
+- **[Velocity-DB](https://github.com/TakumiOkayasu/Velocity-DB)** -
+  SQL Server / PostgreSQL / MySQLにODBC経由で接続するWindows向けRDBMS管理ツール。
+- **[OpenDeck](https://github.com/TakumiOkayasu/OpenDeck)** -
+  Mirabox N4 Proのボタン入力をアプリの起動に割り当てるソフトウェア (開発中)。
 
-<!-- Tech Stack (2x2 カテゴリテーブル) -->
-<h2>🛠️ Tech Stack</h2>
+## Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>💬 Languages</strong>
-      <br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,java,ts,js&theme=dark" alt="Languages" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <strong>🎨 Frontend</strong>
-      <br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vue,html,css&theme=dark" alt="Frontend" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>⚙️ Backend & Infra</strong>
-      <br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,aws&theme=dark" alt="Backend & Infra" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <strong>🔧 Tools</strong>
-      <br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,vim,git,github&theme=dark" alt="Tools" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Category | Technologies |
+| --- | --- |
+| Languages | Python, Java, TypeScript, JavaScript |
+| Frontend | React, Vue, HTML, CSS |
+| Backend & Infra | Node.js, Docker, Kubernetes, AWS |
+| Tools | Linux, Vim, Git, GitHub |
 
----
+## Contact
+
+[mail@murata-lab.net](mailto:mail@murata-lab.net)
+
+## Activity
+
+<details>
+<summary>GitHub Stats / Trophies / Contribution Snake</summary>
 
 <!-- GitHub Stats セクション -->
-<h2>📊 GitHub Stats</h2>
 
-<!-- Profile Details Card -->
+### GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakumiOkayasu&theme=tokyonight" alt="Profile Details" />
+  <img
+    src="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-stats.svg"
+    alt="GitHubのコミット・PR・Issue・スター数の統計"
+  />
 </p>
-
-<!-- Stats Cards Row -->
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-stats.svg" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=TakumiOkayasu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
-<!-- Language Cards Row -->
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakumiOkayasu&theme=tokyonight" alt="Repos Per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakumiOkayasu&theme=tokyonight" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakumiOkayasu&theme=tokyonight&utcOffset=9" alt="Productive Time" />
-</p>
-
----
 
 <!-- Trophies セクション -->
-<h2>🏆 GitHub Trophies</h2>
+
+### GitHub Trophies
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-trophies.svg" alt="GitHub Trophies" />
+  <img
+    src="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-trophies.svg"
+    alt="GitHubの活動実績を示すトロフィー"
+  />
 </p>
-
----
-
-<!-- Activity Graph -->
-<h2>📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakumiOkayasu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
 
 <!-- Snake Animation (GitHub Actions必要) -->
-<h2>🐍 Contribution Snake</h2>
+
+### Contribution Snake
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-snake.svg"
+    />
+    <img
+      alt="GitHubのコントリビューションをたどるSnakeアニメーション"
+      src="https://raw.githubusercontent.com/TakumiOkayasu/TakumiOkayasu/output/github-snake.svg"
+    />
   </picture>
 </p>
 
----
-
-<!-- Contact -->
-<h2>📫 Connect with Me</h2>
-<p align="center">
-  <a href="mailto:mail@murata-lab.net">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<!-- フッター画像/ウェーブ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer Wave"/>
+</details>
